@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layout xmlns="https://geocortex.com/layout/v1" xmlns:geodata="geodata.web" xmlns:web="https://geocortex.com/layout/web/v1">
+    <map id="map-1" config="map-config-1">
+        <geodata:compass slot="top-left" config="geodata-compass-1" />
+    </map>
+</layout>

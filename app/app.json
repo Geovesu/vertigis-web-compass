@@ -1,0 +1,28 @@
+{
+    "schemaVersion": "1.0",
+    "items": [
+        {
+            "$type": "map-extension",
+            "id": "map-config-1",
+            "initialViewMode": "scene",
+            "webScene": "https://www.arcgis.com/home/item.html?id=94e00add11334767afb0abdce49c9a43"
+        },
+        {
+            "$type": "geodata-compass",
+            "id": "geodata-compass-1",
+            "resetTilt": true,
+            "hideWhenReset": true
+        },
+        {
+            "$type": "layout",
+            "id": "default",
+            "title": "Default",
+            "url": "./layout.xml"
+        },
+        {
+            "$type": "branding",
+            "id": "branding",
+            "activeTheme": "light"
+        }
+    ]
+}

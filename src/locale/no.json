@@ -1,0 +1,8 @@
+{
+    "language-geodata-compass-title": "Kompass",
+    "language-geodata-compass-description": "Viser kartretningen. Et klikk snur kartet mot nord, og i 3D tilbakestilles også kamerahelningen.",
+    "language-designer-geodata-compass-reset-tilt-title": "Tilbakestill helning i 3D",
+    "language-designer-geodata-compass-reset-tilt-description": "I 3D-visning tilbakestiller et klikk også kamerahelningen, slik at kameraet ser rett ned.",
+    "language-designer-geodata-compass-hide-when-reset-title": "Skjul når nord",
+    "language-designer-geodata-compass-hide-when-reset-description": "Skjul kompasset når kartet peker mot nord. Med «Tilbakestill helning i 3D» vises det også når 3D-visningen er vinklet."
+}

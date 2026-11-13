@@ -1,0 +1,8 @@
+{
+    "language-geodata-compass-title": "Compass",
+    "language-geodata-compass-description": "Shows the map direction. A click turns the map to north and, in a scene, also resets the camera tilt.",
+    "language-designer-geodata-compass-reset-tilt-title": "Reset tilt in 3D",
+    "language-designer-geodata-compass-reset-tilt-description": "In a scene view, a click also resets the camera tilt so that the camera looks straight down.",
+    "language-designer-geodata-compass-hide-when-reset-title": "Hide when north",
+    "language-designer-geodata-compass-hide-when-reset-description": "Hide the compass while the map faces north. With \"Reset tilt in 3D\", a tilted scene also shows it."
+}
